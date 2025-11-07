@@ -22,8 +22,8 @@ const Navbar = ({}) => {
                 <div className="text-[15px] text-gray-600 flex items-center gap-1.5 mb-[3px] "><p className="rounded-[50%] bg-gray-600 border-none h-1 w-1 "></p>View orders and track your shipping status</div>
                 <div className="text-[15px] text-gray-600 flex items-center gap-1.5 mb-[3px] "><p className="rounded-[50%] bg-gray-600 border-none h-1 w-1 "></p>Create and access a list of your products</div>
               </div>
-              <div className=" uppercase border-1 border-blue-500 w-[100%] rounded-[5px] text-white hover:text-blue-500 bg-blue-500 hover:bg-white cursor-pointer font-semibold py-1.5 mb-2.5 ">sign in</div>
-              <div className=" uppercase border-1 border-blue-500 w-[100%] rounded-[5px] text-blue-500 hover:text-white bg-white hover:bg-blue-500 cursor-pointer font-semibold py-1.5 ">create an account</div>
+              <div className=" uppercase text-center border-1 border-blue-500 w-[100%] rounded-[5px] text-white hover:text-blue-500 bg-blue-500 hover:bg-white cursor-pointer font-semibold py-1.5 mb-2.5 ">sign in</div>
+              <div className=" uppercase text-center border-1 border-blue-500 w-[100%] rounded-[5px] text-blue-500 hover:text-white bg-white hover:bg-blue-500 cursor-pointer font-semibold py-1.5 ">create an account</div>
             </div>
           </div>
         </div>
