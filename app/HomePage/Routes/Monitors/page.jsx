@@ -1,3 +1,4 @@
+"use client"
 import { StoreContext } from "@/app/context/StoreContext"
 import { useContext } from "react"
 import Image from "next/image";
